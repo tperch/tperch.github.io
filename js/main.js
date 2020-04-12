@@ -749,3 +749,6 @@ $(function () {
   }
   if (GLOBAL_CONFIG.isPhotoFigcaption) addPhotoFigcaption()
 })
+
+
+
