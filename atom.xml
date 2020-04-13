@@ -305,7 +305,7 @@
     <link href="https://dperch.xyz/python/jupyter/md_file_in_jupyterlab/"/>
     <id>https://dperch.xyz/python/jupyter/md_file_in_jupyterlab/</id>
     <published>2020-02-26T14:09:49.000Z</published>
-    <updated>2020-04-07T10:25:54.000Z</updated>
+    <updated>2020-04-13T12:06:19.005Z</updated>
     
     <content type="html"><![CDATA[<a id="more"></a><p>　　本来以为 jupyter lab 里没办法预览 .md 文件, 还找了好久插件, 结果其实不用插件也可以, 只要打开 .md 文件, 然后右键就有 Show Markdown Preview 选项, 点了之后就可以在右半边实时预览.<br>　　<del>好吧这是一篇水文.</del></p><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/kity@2.0.4/dist/kity.min.js"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/kityminder-core@1.4.50/dist/kityminder.core.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.jsdelivr.net/npm/hexo-simple-mindmap@0.2.0/dist/mindmap.min.js"></script><link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/hexo-simple-mindmap@0.2.0/dist/mindmap.min.css">]]></content>
     
@@ -324,9 +324,13 @@
       <category term="Jupyter" scheme="https://dperch.xyz/categories/Python/Jupyter/"/>
     
     
-      <category term="水文" scheme="https://dperch.xyz/tags/%E6%B0%B4%E6%96%87/"/>
+      <category term="UI" scheme="https://dperch.xyz/tags/UI/"/>
     
-      <category term="Jupyter" scheme="https://dperch.xyz/tags/Jupyter/"/>
+      <category term="面试" scheme="https://dperch.xyz/tags/%E9%9D%A2%E8%AF%95/"/>
+    
+      <category term="交互设计" scheme="https://dperch.xyz/tags/%E4%BA%A4%E4%BA%92%E8%AE%BE%E8%AE%A1/"/>
+    
+      <category term="作品集" scheme="https://dperch.xyz/tags/%E4%BD%9C%E5%93%81%E9%9B%86/"/>
     
   </entry>
   
