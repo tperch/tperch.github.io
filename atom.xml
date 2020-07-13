@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>栖枝perch</title>
+  <title>雨天</title>
   
-  <subtitle>栖枝小栈</subtitle>
+  <subtitle>雨中栈</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="b.520526.xyz/"/>
@@ -10,7 +10,7 @@
   <id>b.520526.xyz/</id>
   
   <author>
-    <name>栖枝perch</name>
+    <name>雨天</name>
     
   </author>
   
