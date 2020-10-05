@@ -2,14 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>b.520526.xyz/%E4%BD%9C%E5%93%81%E9%9B%86-2020-2021%E5%B9%B4UI%E4%BD%9C%E5%93%81%E9%9B%86/</loc>
+    <loc>b.520526.xyz/hexo/Hexo_blog_build/</loc>
     
     <lastmod>2020-10-05</lastmod>
     
   </url>
   
   <url>
-    <loc>b.520526.xyz/hexo/Hexo_blog_build/</loc>
+    <loc>b.520526.xyz/%E4%BD%9C%E5%93%81%E9%9B%86-2020-2021%E5%B9%B4UI%E4%BD%9C%E5%93%81%E9%9B%86%20(2)/</loc>
     
     <lastmod>2020-10-05</lastmod>
     
@@ -54,20 +54,6 @@
     <loc>b.520526.xyz/404.html</loc>
     
     <lastmod>2020-04-09</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>b.520526.xyz/hexo/problem_in_Valine/</loc>
-    
-    <lastmod>2020-04-07</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>b.520526.xyz/hexo/hexo_d_github_problem/</loc>
-    
-    <lastmod>2020-04-07</lastmod>
     
   </url>
   
